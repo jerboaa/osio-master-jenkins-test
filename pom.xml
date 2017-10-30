@@ -17,7 +17,7 @@
     <vertx.version>3.4.2</vertx.version>
     <vertx-maven-plugin.version>1.0.8</vertx-maven-plugin.version>
     <vertx.verticle>io.openshift.booster.HttpApplication</vertx.verticle>
-    <fabric8.generator.from>docker.io/jerboaa/fabric8-openjdk8-base:0.0.2</fabric8.generator.from>
+    <fabric8.generator.from>docker.io/jerboaa/fabric8-openjdk8-base:0.0.3</fabric8.generator.from>
   </properties>
 
   <dependencyManagement>
